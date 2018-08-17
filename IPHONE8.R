@@ -116,5 +116,9 @@ word_number <- sapply(split(clean_data,clean_data$id), nrow)
 index <- sapply(word_number, seq_len)
 index <- unlist(index)
 clean_data$index <- index #在该句的位置
-#-------------------------------------------------------------------------------#-------------------------------------------------------------------------------
-llama
+#-------------------------------------------------------------------------------
+
+
+for i in 1:neow(data){
+	print(x)
+}
